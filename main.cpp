@@ -1,3 +1,5 @@
+/* linijka komentarza */
+
 # include <cstring>
 # include <iostream>
 # include <stdio.h>
