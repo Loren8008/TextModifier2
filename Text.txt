@@ -1,0 +1,4 @@
+a1: ec TOO-JEST WAZNE==+
+b2: =c NIE-JEST WAZNEee+
+c3: =c sssssssa==aaa=ee+
+d.: ss===AA==aaeeeaa===+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1501017116 source:d:\programowanie\share\codeblocks\projekty\textmodifier2\main.cpp
+	<cstring>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1501705173 source:d:\programowanie\codeblocks\projekty\textmodifier2\main.cpp
+	<cstring>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
